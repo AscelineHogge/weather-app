@@ -2,7 +2,7 @@ Arguments:
   /snap/node/4150/bin/node /snap/node/4150/bin/yarn.js config get registry
 
 PATH: 
-  /home/hogge/BeCode/weather-app/node_modules/.bin:/home/hogge/BeCode/node_modules/.bin:/home/hogge/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/usr/local/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/home/hogge/.npm/_npx/c67e74de0542c87c/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/hogge/BeCode/node_modules/.bin:/home/hogge/node_modules/.bin:/home/node_modules/.bin:/node_modules/.bin:/usr/local/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/home/hogge/.npm/_npx/c67e74de0542c87c/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.5
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: ../../../package.json: EACCES: permission denied, write
+  Error: ../../package.json: EACCES: permission denied, write
       at writeSync (fs.js:711:3)
       at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)
       at writeOrBuffer (internal/streams/writable.js:358:12)
