@@ -23,6 +23,5 @@ React.JS, HTML & Sass
 ## Project links.
 Web Github: https://github.com/AscelineHogge/weather-app
 
-Web link: https://rawfour.github.io/weather-app-react/
-
+Web link: hhttps://loving-mahavira-55e5c4.netlify.app/
 
