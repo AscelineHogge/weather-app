@@ -1,27 +1,31 @@
 # Weather-App 
 
 ## Project.
-"You have been sent abroad for a 10-month work mission. Your family and friends back home ask you about the weather where you live ALL. THE. TIME.
-Enough is enough, you decide to build a small web application for them so that you can free your time to talk about more interesting topics."
+"You will use React to create a simple Pomodoro timer.
+It will be static, without the need for a server."
 This is a project carried out as part of the "Junior Web Developer" training in BeCode.
 
 ## Date of realization.
-1-6 May 2021.
+23 - 29 avril 2021.
 
 ## Objectifs.
-* A typical AJAX flow: send asynchronous requests to a remote server and process the results
-* DOM manipulation: changing the DOM based on the results of the AJAX requests
-* Learn to aggregate and parse data fetched from an api
-* Everything with a JS library like React.JS or Svelte or a JS framework like Vue.JS or Angular
+- Display a big timer (minutes and seconds).
+- Four buttons:
+   - plus (+) and minus (-), they will allow the user to adjust the minutes counter - only when it's stopped.
+   - start, to run the timer (it will then change to stop), to serve as a toggle button
+   - reset, to… reset the timer to its original value
+- At the end of the timer, show a modal to invite user to take a break. The modal will have two buttons:
+   - One to close the modal
+   - Another to close the modal and start a new timer
 
 ## Instructions :
-https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/02-weather-app
+https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/01-pomodoro
 
 ## Languages uses.
-React.JS, HTML & Sass
+Javascript, HTML & Sass.
 
 ## Project links.
-Web Github: https://github.com/AscelineHogge/weather-app
+Web Github: https://github.com/AscelineHogge/react-pomodoro
 
 Web link: https://loving-mahavira-55e5c4.netlify.app/
 
