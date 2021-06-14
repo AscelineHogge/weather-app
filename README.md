@@ -18,9 +18,7 @@ This is a project carried out as part of the "Junior Web Developer" training in 
 https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/02-weather-app
 
 ## Languages uses.
-React.JS
-HTML
-Sass
+React.JS, HTML & Sass
 
 ## Project links.
 Web Github: https://github.com/AscelineHogge/weather-app
