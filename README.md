@@ -19,13 +19,13 @@ This is a project carried out as part of the "Junior Web Developer" training in 
    - Another to close the modal and start a new timer
 
 ## Instructions :
-https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/01-pomodoro
+https://github.com/becodeorg/LIE-Jepsen-4.27/tree/master/03-the-mountain/02-react/02-weather-app
 
 ## Languages uses.
 Javascript, HTML & Sass.
 
 ## Project links.
-Web Github: https://github.com/AscelineHogge/react-pomodoro
+Web Github: https://github.com/AscelineHogge/weather-app
 
 Web link: https://loving-mahavira-55e5c4.netlify.app/
 
